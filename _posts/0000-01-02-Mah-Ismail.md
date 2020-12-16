@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+":smile: konga labonga"he said
 Use the left arrow to go back!
